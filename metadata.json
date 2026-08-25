@@ -1,0 +1,6 @@
+{
+  "name": "ĐUA BÒ LỘI NƯỚC (RƠMO LĂT ĐAK PƠLONG)- Toán Học Vui",
+  "description": "Trò chơi giáo dục toán học dựa trên trò chơi dân gian của người Bahnar dành cho học sinh tiểu học (hỗ trợ Tiếng Việt & Tiếng Anh).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
